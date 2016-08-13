@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bikes>
+  <bike>
+    <name>Delailah</name>
+    <type>AM-Hardtail</type>
+    <color>Purple</color>
+    <km>650</km>
+    <weight>13</weight>
+    <wheelsize>26</wheelsize>
+  </bike>
+</bikes>
